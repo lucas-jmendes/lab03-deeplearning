@@ -1,0 +1,3 @@
+forma,fonte,metrica,incorreto,corrigido,diferenca,unidade,inc_f1,cor_f1,dup_inc,dup_cor
+2,Wine Quality (real); coluna quality inserida artificialmente,acurácia (média de 10 partições internas),1.0,0.8766663091817,12.333369081830003,pontos percentuais,1.0,0.39530061535847455,,
+4,Wine Quality (real),acurácia 1-NN (média de 10 partições internas),0.8665624999999999,0.8267253602713993,3.983713972860059,pontos percentuais,0.543322645539895,0.3726780241120647,0.21625,0.0

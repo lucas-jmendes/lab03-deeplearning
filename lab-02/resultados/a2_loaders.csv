@@ -1,0 +1,4 @@
+conjunto,batch_size,shuffle,drop_last,num_workers,n_obs,n_lotes
+treino,64,True,False,0,961,16
+validacao,256,False,False,0,318,2
+teste,256,False,False,0,320,2
